@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kajrolkar/stream2001#readme",
   "dependencies": {
+    "jquery": "^3.5.1",
+    "peerjs": "^1.2.0",
     "webpack": "^4.43.0"
   }
 }
