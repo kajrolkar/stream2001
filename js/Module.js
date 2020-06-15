@@ -1,1 +1,1 @@
-Console.log("Welcome to video chat application");
+console.log("Welcome to video chat application");
